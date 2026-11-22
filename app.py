@@ -226,7 +226,7 @@ with st.sidebar:
 <div style="color:#fff;font-weight:800;font-size:1.3rem">Silhouette {res['silhouette']:.3f}</div>
 <div style="color:#22D3EE;font-size:.8rem">K-Means ↔ Hierarchical ARI {res['ari_kmeans_vs_hier']:.2f}</div></div>""",
                 unsafe_allow_html=True)
-    st.markdown('<div class="foot">Built by Thota Sathwika · BVRIT CSE<br>Unified Mentor Internship</div>', unsafe_allow_html=True)
+    st.markdown('<div class="foot">Built by Thota Sathwika<br>Machine Learning Internship · Unified Mentor</div>', unsafe_allow_html=True)
 
 
 # ================= OVERVIEW =================
@@ -469,3 +469,4 @@ else:
 <span style="color:#C9CDEB">Enrolments in this dataset are spread almost evenly across the 60 courses (140-196 each), and learners rarely return
 to a category they already took (45% vs 49% expected by chance). With so little pattern in the history, any offline test shows only a modest lift.
 The right next step is a live A/B test measuring click-through, enrolment and completion.</span></div>""", unsafe_allow_html=True)
+

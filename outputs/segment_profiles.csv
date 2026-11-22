@@ -1,0 +1,4 @@
+segment,total_courses,avg_courses_per_category,enroll_freq_per_month,avg_rating_enrolled,avg_spend,total_spend,diversity_score,depth_index,paid_share,age,learners,top_category,top_level
+Career-Focused Paid Learners,1.82,1.05,0.89,2.99,205.94,313.71,1.73,0.51,0.77,24.83,1092,Artificial Intelligence,Advanced
+Free-Course Samplers,1.32,1.02,0.96,3.25,0.03,0.05,1.29,0.5,0.03,25.09,1446,Machine Learning,Beginner
+Multi-Domain Power Learners,13.22,1.56,1.31,3.11,93.31,1230.89,8.6,0.49,0.37,24.95,462,Data Science,Beginner

@@ -1,0 +1,50 @@
+{
+  "n_users": 3000,
+  "n_courses": 60,
+  "n_tx": 10000,
+  "free_tx_share": 0.64,
+  "revenue": 911323.47,
+  "single_course_share": 0.54,
+  "median_courses": 1.0,
+  "k_search": {
+    "2": 0.2755,
+    "3": 0.3293,
+    "4": 0.2557,
+    "5": 0.2416,
+    "6": 0.2407,
+    "7": 0.2493,
+    "8": 0.2434,
+    "9": 0.2506,
+    "10": 0.2466
+  },
+  "k": 3,
+  "silhouette": 0.3293,
+  "davies_bouldin": 1.3109,
+  "hier_silhouette": 0.3198,
+  "ari_kmeans_vs_hier": 0.91,
+  "intra_cluster_similarity": 0.3923,
+  "inter_cluster_similarity": -0.2411,
+  "segments": {
+    "Career-Focused Paid Learners": 1092,
+    "Multi-Domain Power Learners": 462,
+    "Free-Course Samplers": 1446
+  },
+  "pca_var": [
+    0.337,
+    0.176
+  ],
+  "eval_users": 600,
+  "hit_rate@5": {
+    "hybrid": 0.1133,
+    "popularity": 0.1067,
+    "random": 0.1083
+  },
+  "precision@5": {
+    "hybrid": 0.0227,
+    "popularity": 0.0213,
+    "random": 0.0217
+  },
+  "category_precision@5": 0.0797,
+  "engagement_lift_vs_popularity": 1.062,
+  "engagement_lift_vs_random": 1.046
+}

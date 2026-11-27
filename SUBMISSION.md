@@ -3,10 +3,10 @@
 | Field | Where it comes from |
 |---|---|
 | GitHub Repository Link | https://github.com/ThotaSathwika/edupro-learner-segmentation |
-| Research paper link | `reports/Research_Paper.pdf` shared from Google Drive ("Anyone with the link") |
-| Deployed project link | share.streamlit.io → repo `edupro-learner-segmentation`, branch `main`, file `app.py` |
-| Project Explanation Video | 3-5 min screen recording (script below), YouTube Unlisted or Drive link |
-| Internship Experience & Feedback Video | 1-2 min selfie/screen video in your own words (script below) |
+| Research paper link | `reports/Research_Paper.pdf` shared from Google Drive ("Anyone with the link") Link : https://drive.google.com/file/d/13ShtFZ1A77AaEQpKlx3uNUmw3Oc9d-Fv/view?usp=sharing ||Executive_summary pdf link : https://drive.google.com/file/d/1CQgYtUMVoRvJYCNfv-RNLT-FnPKeohMz/view?usp=sharing|
+| Deployed project link | share.streamlit.io → repo `edupro-learner-segmentation`, branch `main`, file `app.py` ||Link:https://edupro-learner-segmentationnew.streamlit.app/|
+| Project Explanation Video | 3-5 min screen recording (script below), YouTube Unlisted or Drive link | |Link : https://drive.google.com/file/d/1aVeNga5qu0eBHSL7-ea9hBPzOMZRcnfF/view?usp=sharing| 
+| Internship Experience & Feedback Video | 1-2 min selfie/screen video in your own words (script below) | |Link:https://drive.google.com/file/d/1yA613wOPz2TnAiD5PGSVeaGzAtDMI7kZ/view?usp=sharing|
 
 ## Project explanation video script (~4 min)
 1. **Intro (20s)** – "I'm Thota Sathwika, final-year CSE at BVRIT. This is my Unified Mentor project: a student segmentation and personalized course recommendation system for EduPro."

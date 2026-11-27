@@ -1,5 +1,5 @@
 # Student Segmentation & Personalized Course Recommendation System — EduPro
-Unified Mentor Data Science Internship · Thota Sathwika (BVRIT, CSE)
+Unified Mentor Data Science Internship · Thota Sathwika
 
 Segments 3,000 EduPro learners by behaviour and recommends courses with a cluster-aware hybrid recommender, served in a Streamlit dashboard.
 
